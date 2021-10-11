@@ -220,3 +220,6 @@ __2. 결과 보기__
 
 [wiki로 이동하기](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
 
+[시연 영상](https://youtu.be/lOVCmeybapY)
+
+[시연 영상 컴퓨터 화면](https://youtu.be/FcpOVq2uYoM)
